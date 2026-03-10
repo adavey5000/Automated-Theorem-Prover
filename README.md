@@ -24,3 +24,5 @@ python main.py
 -![Python File](AutomatedProverPyFile.py) - Python code file
 
 -![Literature Review](AutomatedTheoremProverLiteratureReview.pdf) - Literature Review
+
+-![Demo](DemoAutomatedProver.jpg)
